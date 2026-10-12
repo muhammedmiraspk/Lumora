@@ -1,0 +1,6 @@
+{
+  "name": "Lumora Studio — Pro Photo Editor",
+  "description": "Professional-grade photo editing ecosystem with Liquid Glass themes, nondestructive RAW & image processing, RGB curves, HSL color grading, advanced masking, layers, and 150+ pro presets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
